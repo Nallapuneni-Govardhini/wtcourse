@@ -6,3 +6,7 @@ This repo consists of Web design workshop with reactjs
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+**bold**
+*italic*
+***bold & italic***
